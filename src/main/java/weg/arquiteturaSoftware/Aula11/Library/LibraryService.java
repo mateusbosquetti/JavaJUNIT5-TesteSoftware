@@ -1,4 +1,4 @@
-package weg.arquiteturaSoftware.Aula11;
+package weg.arquiteturaSoftware.Aula11.Library;
 
 public class LibraryService {
 
