@@ -1,0 +1,15 @@
+package weg.arquiteturaSoftware.Aula11;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class BoolInventoryService {
+
+    private Map<String, Integer> inventory;
+
+    public BoolInventoryService() {
+        this.inventory = new HashMap<>();
+        inventory.put("Java Programming", 3);
+        inventory.put("Python Fundamentals", 2);
+    }
+}

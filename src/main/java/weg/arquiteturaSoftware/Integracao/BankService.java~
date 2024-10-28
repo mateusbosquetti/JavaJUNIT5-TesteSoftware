@@ -1,0 +1,4 @@
+package weg.arquiteturaSoftware.Integracao;
+
+public class BankService {
+}

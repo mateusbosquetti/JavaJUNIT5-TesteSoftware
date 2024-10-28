@@ -1,0 +1,4 @@
+package weg.arquiteturaSoftware.Parametrizados;
+
+public class PalindromeChecker {
+}
